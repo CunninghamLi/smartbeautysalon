@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Haircut",
+    "description": "Standard haircut and style",
+    "price": 25.0,
+    "duration": 30
+  },
+  {
+    "name": "Manicure",
+    "description": "Nail shaping, cuticle care, and polish",
+    "price": 30.0,
+    "duration": 45
+  },
+  {
+    "name": "Facial",
+    "description": "Cleansing and rejuvenating facial treatment",
+    "price": 50.0,
+    "duration": 60
+  },
+  {
+    "name": "Hair Coloring",
+    "description": "Full hair coloring service",
+    "price": 70.0,
+    "duration": 90
+  }
+]
